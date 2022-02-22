@@ -22,6 +22,11 @@ main{
     flex-direction: row;
     justify-content: center;
 }
+.login{
+    background-color: chartreuse;
+    padding: 20px;
+    border-radius: 10px;
+}
 .input-div{
     margin: 20px 0;
 }
